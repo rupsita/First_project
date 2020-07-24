@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bloodpedia</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="find_nearest_bloodbank"><u>find nearest bloodbank</u></string>
+
+    <string name="forgot_password"><u>forgot password?</u></string>
+</resources>
