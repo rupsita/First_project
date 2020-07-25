@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.myapplication">
+    package="com.example.Bloodpedia">
 
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <uses-permission android:name="android.permission.SEND_SMS" />
@@ -15,36 +15,36 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".forget"></activity>
-        <activity android:name=".splash">
+        <activity android:name="com.example.Bloodpedia.forget"></activity>
+        <activity android:name="com.example.Bloodpedia.splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AB_neg" />
-        <activity android:name=".AB_pos" />
-        <activity android:name=".Oneg" />
-        <activity android:name=".Opos" />
-        <activity android:name=".Bneg" />
-        <activity android:name=".Bpos" />
-        <activity android:name=".Aneg" />
-        <activity android:name=".Apos" />
-        <activity android:name=".reg" />
-        <activity android:name=".search" />
-        <activity android:name=".spin" />
-        <activity android:name=".calculator" />
-        <activity android:name=".web_view" />
-        <activity android:name=".list_view" />
-        <activity android:name=".text" />
-        <activity android:name=".SMS" />
-        <activity android:name=".call" />
-        <activity android:name=".Radio" />
-        <activity android:name=".registration" />
-        <activity android:name=".relay"></activity>
-        <activity android:name=".Sample" />
-        <activity android:name=".MainActivity" />
+        <activity android:name="com.example.Bloodpedia.AB_neg" />
+        <activity android:name="com.example.Bloodpedia.AB_pos" />
+        <activity android:name="com.example.Bloodpedia.Oneg" />
+        <activity android:name="com.example.Bloodpedia.Opos" />
+        <activity android:name="com.example.Bloodpedia.Bneg" />
+        <activity android:name="com.example.Bloodpedia.Bpos" />
+        <activity android:name="com.example.Bloodpedia.Aneg" />
+        <activity android:name="com.example.Bloodpedia.Apos" />
+        <activity android:name="com.example.Bloodpedia.reg" />
+        <activity android:name="com.example.Bloodpedia.search" />
+        <activity android:name="com.example.Bloodpedia.spin" />
+        <activity android:name="com.example.Bloodpedia.calculator" />
+        <activity android:name="com.example.Bloodpedia.web_view" />
+        <activity android:name="com.example.Bloodpedia.list_view" />
+        <activity android:name="com.example.Bloodpedia.text" />
+        <activity android:name="com.example.Bloodpedia.SMS" />
+        <activity android:name="com.example.Bloodpedia.call" />
+        <activity android:name="com.example.Bloodpedia.Radio" />
+        <activity android:name="com.example.Bloodpedia.registration" />
+        <activity android:name="com.example.Bloodpedia.relay"></activity>
+        <activity android:name="com.example.Bloodpedia.Sample" />
+        <activity android:name="com.example.Bloodpedia.MainActivity" />
     </application>
 
 </manifest>

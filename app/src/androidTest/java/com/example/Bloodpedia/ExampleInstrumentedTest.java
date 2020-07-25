@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.Bloodpedia;
 
 import android.content.Context;
 

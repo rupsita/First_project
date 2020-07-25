@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.Bloodpedia;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -15,11 +15,9 @@ import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
-import com.android.volley.toolbox.Volley;
 import com.example.utils.Endpts;
 import com.example.utils.VolleySingleton;
 
-import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

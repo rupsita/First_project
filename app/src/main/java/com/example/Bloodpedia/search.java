@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.Bloodpedia;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -15,7 +15,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class search extends AppCompatActivity {
      SearchView srch;
